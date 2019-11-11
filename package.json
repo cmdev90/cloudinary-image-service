@@ -1,0 +1,27 @@
+{
+  "name": "cloudinary-image-service",
+  "version": "1.0.0",
+  "description": "Cloudinary image hosting open rest based API proxy connector for simple config only deployment.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmdev90/cloudinary-image-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmdev90/cloudinary-image-service/issues"
+  },
+  "homepage": "https://github.com/cmdev90/cloudinary-image-service#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.16.0",
+    "eureka-js-client": "^4.5.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "swagger-ui-express": "^4.1.2"
+  }
+}

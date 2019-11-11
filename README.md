@@ -1,2 +1,2 @@
 # cloudinary-image-service
-Cloudinary image hosting open rest based API proxy connector for simple config only deployment.
+A simple implementation of a cloudinary image hosting open rest based API proxy connector to allow for simple config only service oriented deployment in eureka environment.
